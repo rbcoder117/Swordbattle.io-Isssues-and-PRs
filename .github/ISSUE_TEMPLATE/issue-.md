@@ -7,5 +7,4 @@ assignees: ''
 
 ---
 
-**Write You Issue**
 @codergautam
